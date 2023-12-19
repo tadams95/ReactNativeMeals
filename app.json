@@ -3,9 +3,10 @@
     "name": "ReactNativeMeals",
     "slug": "ReactNativeMeals",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "backgroundColor": "#27241D",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
